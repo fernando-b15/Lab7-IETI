@@ -8,7 +8,7 @@
    * Back
    * [![Azure](https://aka.ms/deploytoazurebutton)](https://lab7-task-planner-api.azurewebsites.net/api/list-task?code=2laB9R2OrQDVj2800dkKqmHFsE4onIZMWXufwNHnYATyZa13pbZo2A==)
    * Front
-   * [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lab3ieti.herokuapp.com/)
+   * [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lab7ieti.herokuapp.com/)
 ## Pruebas
 Despues de subir las funciones Azure con el comando **func azure functionapp publish lab7-task-planner-api** se nos dara el link de cada funcion
 ![img1](https://github.com/fernando-b15/Lab7-IETI/blob/master/img/test5.PNG)
