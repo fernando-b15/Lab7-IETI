@@ -3,7 +3,7 @@
 ## Author
   * [Fernando Barrera Barrera](https://github.com/fernando-b15) :guitar:
 ## Link Front-End-LAB7
-   * [Link Front-End-LAB7] (https://github.com/fernando-b15/LAB7-Front-IETI)
+   * [Link Front-End-LAB7](https://github.com/fernando-b15/LAB7-Front-IETI)
 ## Deploys 
    * Back
    * [![Azure](https://aka.ms/deploytoazurebutton)](https://lab7-task-planner-api.azurewebsites.net/api/list-task?code=2laB9R2OrQDVj2800dkKqmHFsE4onIZMWXufwNHnYATyZa13pbZo2A==)
